@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "984832509773",
+    "project_id": "hostel-attendance-ce06a",
+    "storage_bucket": "hostel-attendance-ce06a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:984832509773:android:e2f658e7aa6ba1940dd904",
+        "android_client_info": {
+          "package_name": "com.example.hostel"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMI738GN2yaQV2rcr7wHJvbtY1By3_sNY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

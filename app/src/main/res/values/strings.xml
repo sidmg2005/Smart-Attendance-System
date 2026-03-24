@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">hostel</string>
+    <string name="day_date">Day, Date</string>
+    <string name="present_students">Present Students:</string>
+    <string name="_0">0</string>
+    <string name="register_no">Register No</string>
+    <string name="name">Name</string>
+    <string name="time">Time</string>
+    <string name="hostel_attendance">HOSTEL ATTENDANCE</string>
+    <string name="absent_students">Absent Students</string>
+    <string name="absent_count">0</string>
+    <string name="hostel_attendance_title">Hostel Attendance</string>
+    <string name="add_absent_student">Add Absent Student</string>
+</resources>

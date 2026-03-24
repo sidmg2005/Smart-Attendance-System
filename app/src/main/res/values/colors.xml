@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    
+    <!-- Modern Purple/Blue Palette -->
+    <color name="md_theme_light_primary">#6200EA</color>
+    <color name="md_theme_light_onPrimary">#FFFFFF</color>
+    <color name="md_theme_light_primaryContainer">#EDE7F6</color>
+    <color name="md_theme_light_onPrimaryContainer">#311B92</color>
+    
+    <color name="md_theme_light_secondary">#03DAC5</color>
+    <color name="md_theme_light_onSecondary">#000000</color>
+    <color name="md_theme_light_secondaryContainer">#B2DFDB</color>
+    <color name="md_theme_light_onSecondaryContainer">#004D40</color>
+    
+    <color name="md_theme_light_tertiary">#2962FF</color>
+    <color name="md_theme_light_onTertiary">#FFFFFF</color>
+    
+    <color name="md_theme_light_error">#BA1A1A</color>
+    <color name="md_theme_light_errorContainer">#FFDAD6</color>
+    <color name="md_theme_light_onError">#FFFFFF</color>
+    <color name="md_theme_light_onErrorContainer">#410002</color>
+
+    <color name="md_theme_light_background">#F4F5F9</color>
+    <color name="md_theme_light_onBackground">#1A1C1E</color>
+    <color name="md_theme_light_surface">#FFFFFF</color>
+    <color name="md_theme_light_onSurface">#1A1C1E</color>
+    <color name="md_theme_light_surfaceVariant">#E7E0EC</color>
+    <color name="md_theme_light_onSurfaceVariant">#49454F</color>
+    
+    <color name="green_success">#00C853</color>
+    <color name="red_error">#D50000</color>
+    <color name="gray_text">#757575</color>
+    <color name="gray_light">#E0E0E0</color>
+</resources>
